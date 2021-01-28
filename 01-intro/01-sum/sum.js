@@ -10,3 +10,4 @@ function sum(...arguments) {
 }
 
 module.exports = sum;
+
